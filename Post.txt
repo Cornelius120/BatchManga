@@ -1,0 +1,61 @@
+<!-- [Thumbnail] -->
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJGQ2M-iq93T2oAgvA3-nZOfygnTCVd6ZaHSdQ8U5GjdTqyEnO3k5HBgifkiR12dIbQwnodFM20EFIB3FPce4m7nKxdePezH-kn7XplakhoT3j_mqL48lAf1z26acDXPh6Nz3WN8c-1wbHREFqLo_zkK9jQIFpkSATslPEmE9mJvYwEQBZSKOLFv0KWivB/s728/Sono-Bisque-Doll-wa-Koi-wo-suru-v10.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" height="400" data-original-height="728" data-original-width="512" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJGQ2M-iq93T2oAgvA3-nZOfygnTCVd6ZaHSdQ8U5GjdTqyEnO3k5HBgifkiR12dIbQwnodFM20EFIB3FPce4m7nKxdePezH-kn7XplakhoT3j_mqL48lAf1z26acDXPh6Nz3WN8c-1wbHREFqLo_zkK9jQIFpkSATslPEmE9mJvYwEQBZSKOLFv0KWivB/s400/Sono-Bisque-Doll-wa-Koi-wo-suru-v10.jpg"/></a></div>
+
+<!-- [Backgroud Cover] -->
+<div class="second">
+  <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhghSQKrpDdn16mui6h7LSuO-x9SrtgwZLBGz7GQ-8kIyia04A9V83x8WyLWFxpNJ9ncQWdhyOkppr5IgpzhMGP0Zjqazld7kqtR7esmZG2SC4onmDt2f7nj_r0OwPB1R-e5_OE0no73JTM_QuRKBwoAp0fS0oJMZfGuFJ_cWOwXzBAhfMc44l5oEomRvfz/s1600/Sono-Bisque-Doll-wa-Koi-wo-suru-big-cover-manga.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" data-original-height="320" data-original-width="850" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhghSQKrpDdn16mui6h7LSuO-x9SrtgwZLBGz7GQ-8kIyia04A9V83x8WyLWFxpNJ9ncQWdhyOkppr5IgpzhMGP0Zjqazld7kqtR7esmZG2SC4onmDt2f7nj_r0OwPB1R-e5_OE0no73JTM_QuRKBwoAp0fS0oJMZfGuFJ_cWOwXzBAhfMc44l5oEomRvfz/s1600/Sono-Bisque-Doll-wa-Koi-wo-suru-big-cover-manga.jpg"/></a></div>
+</div>
+
+<!-- [Title Alternative] -->
+<span class="Title_Alter">Doll My Dress-Up Darling Projekt: Cosplay Sexy Cosplay Doll Sono Bisque Doll wa Koi o suru Sono Kisekae Ningyou wa Koi o suru Sono Kisekae Ningyou wa Koi wo suru That Bisque Doll Who Fell In Love The Dress-up Doll That Fell In Love Любовь с иголочки Эта фарфоровая кукла влюбилась ड्रेस-अप पुतली प्रेममा पर्छ หนุ่มเย็บผ้ากับสาวนักคอสเพลย์ その着せ替え人形(ビスク・ドール)は恋をする その着せ替え人形は恋をする 更衣人偶坠入爱河 更衣人偶墜入愛河</span>
+<!-- [Artist] -->
+<span class="Artist">FUKUDA Shinichi</span>
+<!-- [Author] -->
+<span class="Author">FUKUDA Shinichi</span>
+<!-- [New Chapter] -->
+<span class="New_Chapter">79</span>
+
+<!-- [Synopsis] -->
+<div class="sinopsis">
+  <p>Wakana Gojou adalah anak SMA berusia lima belas tahun yang mengalami trauma sosial di masa lalu karena gairahnya. Insiden itu meninggalkan bekas padanya yang membuatnya menjadi pertapa sosial. Sampai suatu hari ia bertemu dengan Kitagawa yang merupakan gyaru yang ramah, yang sepenuhnya bertolak belakang dengannya. Mereka segera berbagi gairah mereka dengan satu sama lain yang mengarah ke hubungan aneh mereka.</p>
+</div>
+
+<!-- [Slider Gallery] -->
+<div class="slider_poster owl-carousel">
+  <img alt="" height="728" width="512" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidqc6Wh50rCAc_MYbCVmYRdgF94jWobhbCSq2S0AaldokdnYLwoCsPZ-sNEZkJcIZgi_HKQRDr6u5UQLhyZueWK7M9FBaTETqbq_to9MZoMJ-DNfWjas7qYWUinoU4NIjSNHKK5cFemM38BJlou1v4r6HvHjjzgW7AfbuESyzk4n1PYwNFsdS-LXN7vy7H/s1600/Sono-Bisque-Doll-wa-Koi-wo-suru-v01.jpg"/>
+  <img alt="" height="728" width="512" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTDF_LajYYKSBxHCBujTw5XeYRO0JKK0nGseu6VQ0SLsI9jTNLHa8VMKAG9cycnPfLj0jl28DxL0NdqO7FSTCZYFhisBypx3pX8Btz-W6WLs8jeTk8ySc0-MKm0DWNRyfVlc7APgI8zMIEdREeRpl6Ba2vwohK_5fNKs-n64ezsyAp2EU8Qm9JG6xJ1Vv0/s1600/Sono-Bisque-Doll-wa-Koi-wo-suru-v02.jpg"/>
+  <img alt="" height="728" width="512" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3n98PqYIqy9OZsF9e8jMw-hr6UaAQMC8JBC9QRkFK8NSMO57lgkxUY-Av2INdAy3cFbH16VUvPculbg1m1qzxZ0wHFU3iGj_CaABUDM5c4XeUylAh80eBxanzlxD8XLGl5OVl5P8iQUbtqQvheQ1c2WuXn_2j86Z5KxyJDxZMJ3HFjphBt6UdtEBFg1Of/s1600/Sono-Bisque-Doll-wa-Koi-wo-suru-v03.jpg"/>
+  <img alt="" height="728" width="512" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHLvOonQK2NA1_ZjEdV6KL8GvdRbgdF2CyyYGoVkvaNnZfv5ckIZwfBKfE9TdjQ-V57-oqR27DPo10l0sFqFyl7l9sICav-mp5yL2BfAl1VZLYWtF0CzGDCKAanOXFu44zyQArJi2WsrdYsDomI7SW2dlPprIit3oQD2w26fPsVs_IvGfU6Ec24y_B7siw/s1600/Sono-Bisque-Doll-wa-Koi-wo-suru-v04.jpg"/>
+  <img alt="" height="728" width="512" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkZcMf6qMb3Pp0uYhgwpbR40BYLAFvVwOM7_OXRxK3rMLAGpAYgSFNPfKA5V4bUY4DUM2qCehFKMCsibaVvck78x1P5M-wE6W_nC5oFTWoJRK1OuaGj7j58nZTwTsaKQ2gmqvEsOGKYkTiILt23DhdVXfN5FIcg_wHeUEjGMC6JnYHaSXzL7TILEyK739Z/s1600/Sono-Bisque-Doll-wa-Koi-wo-suru-v05.jpg"/>
+  <img alt="" height="728" width="512" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUuUO1wYfFcoIx28chyxD92heOrblhoibdKWM6hwg6orW4SXiiC0sWPRuQJuo-N6yC6BCQUuHB6QW406zfZEvNb3Qvr0lC5FnEm5F-XbUeJNEZD7kiY09DMDnax85RjRcqXTOiJTZw-KiJPizAqOCiIpNxHqLYzaBYIe3I9w5yS-GcDt6OqFB65CNDHGdy/s1600/Sono-Bisque-Doll-wa-Koi-wo-suru-v06.jpg"/>
+  <img alt="" height="728" width="512" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7K0vPLecE-jbNIJk3W-4yuYdY8wCTBtmJUsY750byXah4vPTcxMay6cr1mmSWQdrn9rdzzS_e8ja2t4-sSxUdyP2DUh2iC6HMEkl2V_aACDwLrLAvHoro1g1laxIhFVLt6Tw19HjUfecgQigQVPrhnQSoNfboz1FnkQXmnPa8E4EDBmO6FhjbZW5cw9uj/s1600/Sono-Bisque-Doll-wa-Koi-wo-suru-v07.jpg"/>
+  <img alt="" height="728" width="512" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU30UFwAUnAfL89Ir7TWogCH74mmtxJ43UARrNBdR4XzkEVK4uLzH8kocxgpeVu7Gp81LUal-hscE8etYXCwdwXF4fVkZRzcWdN4-RTXYWCV5l2lcj1O6PI79dfDHdEA46ASa9guxwFoT1KYXGU7fzpuUTA8Zz6IDkU-bh-l4ZUkila-Y51x4Xsz4OdkFw/s1600/Sono-Bisque-Doll-wa-Koi-wo-suru-v08.jpg"/>
+  <img alt="" height="726" width="512" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6J36ltqIb7q8SurS-HimRbx0Bl_fSQIRtWY9Toicuw6jktzs1dx1hkrVt3njCStLxlN5lAsxb5p6JB3MNLZKdrg363iQdzDaORFQZpn62QFzVUQbtoEeUkyPr3_ymFl0WqS355XXRfayrt7zyTvoXHkXgpQq9w0rQwf_Q6itbLVIHnuRpgyLaVG94gZ-J/s1600/Sono-Bisque-Doll-wa-Koi-wo-suru-v09.jpg"/>
+  <img alt="" height="728" width="512" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3MQEEYJQoIuaddhz496b0pKxHwhGSd8HyIB2JawDTS5ZGiYS5G6DqaS24d1i3p7sEjjETKrUMO8JwO5wQ5WTzeKZJAMK-E47Zta98Jb_-S4g173X9aX3Pfw-X4VyoQeEJGDr5T80JgDkvkxcdo3Y7LsroU5AvLHIPGI_ME8M670V1p3A3_lWjoFQJpkEM/s1600/Sono-Bisque-Doll-wa-Koi-wo-suru-v10%20%281%29.jpg"/>
+</div>
+
+<!-- [Box Download] -->
+<div class="soraddlx soradlg">
+  <div class="sorattlx">
+    <h3>Bahasa Indonesia</h3>
+  </div>
+
+  <div class="soraurlx">
+    <strong>Volume 01 (001-007)</strong>
+    <a href="#" target="_blank">GoogleDrive</a> | 
+    <a href="#" target="_blank">Mega</a>
+  </div>
+
+  <div class="soraurlx">
+    <strong>Volume 02 (008-015)</strong>
+    <a href="#" target="_blank">GoogleDrive</a> | 
+    <a href="#" target="_blank">Mega</a>
+  </div>
+
+  <div class="soraurlx">
+    <strong>Volume 03 (016-023)</strong>
+    <a href="#" target="_blank">GoogleDrive</a> | 
+    <a href="#" target="_blank">Mega</a>
+  </div>
+
+</div>

@@ -1,0 +1,6 @@
+<div class='bookmark-box'>
+  <p class="ntf">Kamu bisa menyimpan list anime di sini lebih dari 30 judul. List ini tersimpan sebagai cache browser kamu, jadi jika kamu melakukan clear chace browser, maka semua list ini akan hilang.</p>
+  <!--Bookmark Item-->
+  <div id='bookmark'></div>
+  <div class="bt_bookmarks">Delete</div>
+</div>
